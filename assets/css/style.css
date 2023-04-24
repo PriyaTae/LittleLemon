@@ -20,7 +20,7 @@ nav ul a{
     color: #fff;
 }
 #hero{
-    background-image: url('pasta1.jpg');
+    background-image: url('assets/img/pasta1.jpg');
     background-size: cover;
     background-position: 75%;
     text-align: center;
